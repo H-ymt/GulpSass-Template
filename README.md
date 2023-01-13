@@ -1,1 +1,1 @@
-# -GulpSass-Template
+# GulpSass-Template
